@@ -12,6 +12,7 @@ class ProfileController extends Controller
             "name" => "Farhan Fakhrudin",
             "description" => "Junior Fullstack Developer | Passionate about Web Development & Technology",
             "photo" => asset('storage/profile.png'),
+            // "photo" => "https://ui-avatars.com/api/?name=Farhan+Fakhrudin&background=0D8ABC&color=fff",
             "socials" => [
                 "github" => "https://github.com/fakhrudinf",
                 "linkedin" => "https://linkedin.com/in/",
